@@ -37,6 +37,9 @@
   <tr>
     <td width="22%"><b>AI, ML & GenAI</b></td>
     <td>
+      <img src="https://img.shields.io/badge/LLMs-FF6F00?style=flat-square" alt="LLMs" />
+      <img src="https://img.shields.io/badge/RAG-009688?style=flat-square" alt="RAG" />
+      <img src="https://img.shields.io/badge/NLP-0284C7?style=flat-square" alt="NLP" />
       <img src="https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Transformers" />
       <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" />
       <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
