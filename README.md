@@ -1,6 +1,6 @@
 # Vaishnavi Anugu
 
-### Hi I am Vaishnavi Anugu 👋
+### Hi I am Vaishnavi 👋
 
 <p align="left">
   <a href="https://www.linkedin.com/in/anugu-vaishnavi-651a67353/" target="_blank">
