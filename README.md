@@ -1,6 +1,6 @@
-# Vaishnavi Anugu
+# Vaishnavi Reddy
 
-### Hi I am Vaishnavi 👋
+### Hi I am Vaishnavi Reddy 👋
 
 <p align="left">
   <a href="https://www.linkedin.com/in/anugu-vaishnavi-651a67353/" target="_blank">
@@ -193,5 +193,5 @@
 ---
 
 <div align="center">
-  <sub>Designed & built with care by <a href="https://github.com/vaishnavireddy067">Vaishnavi Anugu</a> • Let's connect and build something impactful together!</sub>
+  <sub>Designed & built with care by <a href="https://github.com/vaishnavireddy067">Vaishnavi Reddy</a> • Let's connect and build something impactful together!</sub>
 </div>
