@@ -1,4 +1,4 @@
-# Vaishnavi Reddy
+# Vaishnavi Anugu
 
 ### Hi I am Vaishnavi Reddy 👋
 
