@@ -14,12 +14,6 @@
   <a href="mailto:anuguvaishnavireddy0@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.com/vaishnavireddy067?tab=followers" target="_blank">
-    <img src="https://img.shields.io/github/followers/vaishnavireddy067?style=social" alt="Followers" />
-  </a>
-  <a href="https://github.com/vaishnavireddy067">
-    <img src="https://komarev.com/ghpvc/?username=vaishnavireddy067&style=flat-square&color=0284c7&label=Profile+Views" alt="Profile Views" />
-  </a>
 </p>
 
 > *I build AI-powered systems that solve real-world business and enterprise problems.*
