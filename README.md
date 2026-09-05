@@ -108,18 +108,27 @@
       <p><b>Real-Time Interactive Vision Whiteboard</b><br/>Transforms any standard webcam into a touchless digital canvas. Uses landmark tracking to detect finger gestures, toggle color palettes, draw in air, erase, and save outputs in real-time.</p>
     </td>
     <td width="50%">
-      <h3 align="center"><a href="https://github.com/vaishnavireddy067/ADAMSS-Autonomous-Data-Analytics-Model-Stability-System">ADAMSS</a></h3>
+      <h3 align="center"><a href="https://github.com/vaishnavireddy067/Adaptive-Learning-Management-and-Smart-Campus-Intelligence-System">Adaptive Learning & Smart Campus</a></h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/AutoML-009688?style=flat-square" />
-        <img src="https://img.shields.io/badge/Model_Monitoring-3F51B5?style=flat-square" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Campus_Intelligence-00897B?style=flat-square" />
       </p>
-      <p><b>Autonomous Data Analytics & Model Stability System</b><br/>A low-code AI platform automating Exploratory Data Analysis (EDA), algorithm benchmarking, hyperparameter tuning, and continuous production data drift detection.</p>
+      <p><b>AI-Driven LMS & Student ERP Platform</b><br/>Comprehensive intelligence platform integrating adaptive learning management, student lifecycle ERP, academic risk prediction, and automated campus administrative workflows.</p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center"><a href="https://github.com/vaishnavireddy067/HireMind-AI-Agentic-Talent-Intelligence-Platform">HireMind AI</a></h3>
+      <h3 align="center"><a href="https://github.com/vaishnavireddy067/AI-CareMatch">AI CareMatch</a></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Healthcare_AI-E91E63?style=flat-square" />
+        <img src="https://img.shields.io/badge/Recommendation_Engine-7C3AED?style=flat-square" />
+        <img src="https://img.shields.io/badge/Full--Stack-0284C7?style=flat-square" />
+      </p>
+      <p><b>Caregiver Intelligence & Patient Matching Platform</b><br/>Intelligent caregiver platform connecting patients with verified healthcare professionals using compatibility scoring, specialized medical needs mapping, and real-time scheduling.</p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><a href="https://github.com/vaishnavireddy067/HireMind-AI-Agentic-Talent-Intelligence-Platform">HireMind AI (Agentic Platform)</a></h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Agentic_AI-7C3AED?style=flat-square" />
         <img src="https://img.shields.io/badge/NLP_Parsing-0284C7?style=flat-square" />
@@ -127,17 +136,17 @@
       </p>
       <p><b>Agentic AI Talent Intelligence Platform</b><br/>Autonomous recruitment agent orchestrating resume parsing, candidate scoring against technical job descriptions, skill-gap analysis, and actionable hiring recommendations.</p>
     </td>
-    <td width="50%">
-      <h3 align="center"><a href="https://github.com/vaishnavireddy067/RT-AIDIS-IntegrityAI">RT-AIDIS (IntegrityAI)</a></h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/Anomaly_Detection-10B981?style=flat-square" />
-        <img src="https://img.shields.io/badge/Real--Time_Monitor-06B6D4?style=flat-square" />
-      </p>
-      <p><b>Real-Time AI Data Integrity Platform</b><br/>Multi-domain telemetry monitor detecting data corruption, sensor anomalies, and stability degradation across manufacturing, healthcare, and smart city infrastructure.</p>
-    </td>
   </tr>
   <tr>
+    <td width="50%">
+      <h3 align="center"><a href="https://github.com/vaishnavireddy067/Research-Orbit">ResearchPilot AI</a></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Multi--Agent-8A2BE2?style=flat-square" />
+        <img src="https://img.shields.io/badge/RAG_Citations-009688?style=flat-square" />
+      </p>
+      <p><b>Agentic Literature & Paper Synthesis Pilot</b><br/>Autonomous multi-agent research pilot helping researchers extract, synthesize, summarize, and cross-reference complex scientific papers with reliable citation grounding.</p>
+    </td>
     <td width="50%">
       <h3 align="center"><a href="https://github.com/vaishnavireddy067/StudentPerformance-AI-ML">Student Performance AI Predictor</a></h3>
       <p align="center">
@@ -146,15 +155,6 @@
         <img src="https://img.shields.io/badge/Interactive_UI-0D9488?style=flat-square" />
       </p>
       <p><b>Predictive Educational Analytics System</b><br/>End-to-end ML pipeline predicting academic outcomes and highlighting at-risk students for early intervention through clear, explainable feature importance graphs.</p>
-    </td>
-    <td width="50%">
-      <h3 align="center"><a href="https://github.com/vaishnavireddy067/smart-routing-system">Smart Routing System</a></h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Graph_Theory-EA580C?style=flat-square" />
-        <img src="https://img.shields.io/badge/Machine_Learning-2563EB?style=flat-square" />
-        <img src="https://img.shields.io/badge/Traffic_Optimization-059669?style=flat-square" />
-      </p>
-      <p><b>Dynamic Route Optimization Engine</b><br/>Combines graph traversal algorithms with ML traffic prediction models to calculate dynamic, congested-aware paths inspired by modern navigation networks.</p>
     </td>
   </tr>
 </table>
