@@ -16,7 +16,7 @@
 
 <p align="left">
   <a href="https://github.com/vaishnavireddy067">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=1000&color=0284c7&multiline=false&width=650&lines=AI+%26+Data+Science+Engineer+%F0%9F%A4%96;Autonomous+Agents+%26+GenAI+Builder+%E2%9A%A1;Computer+Vision+%26+Full-Stack+Developer+%F0%9F%9A%80" alt="Header Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=1000&color=0284c7&multiline=false&width=700&lines=AI+%26+Data+Science+Engineer+%F0%9F%A4%96;AI+Automation+Systems+%26+Enterprise+Applications+%F0%9F%9A%80;Autonomous+AI+Agents+%26+GenAI+Solutions+%E2%9A%A1;Machine+Learning+%26+Data+Intelligence+%F0%9F%93%8A" alt="Header Typing SVG" />
   </a>
 </p>
 
