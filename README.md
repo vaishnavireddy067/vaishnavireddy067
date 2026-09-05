@@ -1,6 +1,8 @@
-# 👋 Hi, I'm Anugu Vaishnavi
+# Anugu Vaishnavi
 
-### **AI Engineer | GenAI | Machine Learning | Backend**
+### Hi I am Anugu Vaishnavi 👋
+
+**AI Engineer | GenAI | Machine Learning | Backend**
 
 <p align="left">
   <a href="https://www.linkedin.com/in/anugu-vaishnavi-651a67353/" target="_blank">
