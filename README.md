@@ -1,40 +1,27 @@
-<div align="center">
+# Vaishnavi Anugu
 
-  <!-- Header Banner / Typing SVG -->
-  <a href="https://github.com/vaishnavireddy067">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=false&width=700&height=50&lines=Hi%2C+I'm+Vaishnavi+Anugu+%F0%9F%91%8B;AI+%26+Data+Science+Engineer+%F0%9F%A4%96;Autonomous+Agents+%26+GenAI+Builder+%E2%9A%A1;Computer+Vision+%26+Full-Stack+Developer+%F0%9F%9A%80" alt="Header Typing SVG" />
+### Hi I am Vaishnavi Anugu 👋
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/anugu-vaishnavi-651a67353/" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  <a href="mailto:anuguvaishnavireddy0@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/vaishnavireddy067?tab=followers" target="_blank">
+    <img src="https://img.shields.io/github/followers/vaishnavireddy067?style=social" alt="Followers" />
+  </a>
+  <a href="https://github.com/vaishnavireddy067">
+    <img src="https://komarev.com/ghpvc/?username=vaishnavireddy067&style=flat-square&color=0284c7&label=Profile+Views" alt="Profile Views" />
+  </a>
+</p>
 
-  <p align="center">
-    <b>Passionate about engineering production-grade AI systems, autonomous agents, and real-time intelligent platforms.</b>
-  </p>
-
-  <!-- Quick Badges & Profile Views -->
-  <p align="center">
-    <a href="https://github.com/vaishnavireddy067">
-      <img src="https://komarev.com/ghpvc/?username=vaishnavireddy067&style=flat-square&color=0284c7&label=Profile+Views" alt="Profile Views" />
-    </a>
-    <img src="https://img.shields.io/badge/Specialization-AI%20%26%20Data%20Science-7c3aed?style=flat-square" alt="AI & Data Science" />
-    <img src="https://img.shields.io/badge/Focus-Autonomous%20Agents%20%7C%20MLOps-059669?style=flat-square" alt="Focus" />
-  </p>
-
-  <!-- Social Links -->
-  <p align="center">
-    <a href="https://www.linkedin.com/in/anugu-vaishnavi-651a67353/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="mailto:anuguvaishnavireddy0@gmail.com">
-      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <a href="https://github.com/vaishnavireddy067">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    </a>
-    <a href="https://github.com/vaishnavireddy067/Vaishnavi_portfolio">
-      <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
-    </a>
-  </p>
-
-</div>
+<p align="left">
+  <a href="https://github.com/vaishnavireddy067">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=1000&color=0284c7&multiline=false&width=650&lines=AI+%26+Data+Science+Engineer+%F0%9F%A4%96;Autonomous+Agents+%26+GenAI+Builder+%E2%9A%A1;Computer+Vision+%26+Full-Stack+Developer+%F0%9F%9A%80" alt="Header Typing SVG" />
+  </a>
+</p>
 
 ---
 
