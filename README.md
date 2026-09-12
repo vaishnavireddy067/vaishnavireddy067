@@ -87,10 +87,13 @@
     </td>
   </tr>
   <tr>
-    <td><b>Data & Visualization</b></td>
+    <td><b>Data Science & Analytics</b></td>
     <td>
       <img src="https://img.shields.io/badge/Data_Science-107C41?style=flat-square" alt="Data Science" />
       <img src="https://img.shields.io/badge/Data_Analysis-0078D4?style=flat-square" alt="Data Analysis" />
+      <img src="https://img.shields.io/badge/Statistics-00758F?style=flat-square" alt="Statistics" />
+      <img src="https://img.shields.io/badge/EDA-E91E63?style=flat-square" alt="EDA" />
+      <img src="https://img.shields.io/badge/Data_Visualization-4B0082?style=flat-square" alt="Data Visualization" />
       <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
       <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
       <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square" alt="Matplotlib" />
@@ -98,6 +101,18 @@
       <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" alt="Plotly" />
       <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
       <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" alt="Tableau" />
+      <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Data Engineering</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Data_Engineering-00599C?style=flat-square" alt="Data Engineering" />
+      <img src="https://img.shields.io/badge/ETL_Pipelines-FF6F00?style=flat-square" alt="ETL" />
+      <img src="https://img.shields.io/badge/Data_Pipelines-00897B?style=flat-square" alt="Data Pipelines" />
+      <img src="https://img.shields.io/badge/Data_Modeling-7C3AED?style=flat-square" alt="Data Modeling" />
+      <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" alt="Apache Spark" />
+      <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" alt="Apache Airflow" />
     </td>
   </tr>
   <tr>
