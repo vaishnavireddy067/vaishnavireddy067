@@ -20,16 +20,12 @@
   </a>
 </p>
 
----
-
 ### 👩‍💻 About Me
 
 - 🎓 **Education**: Undergraduate in **Artificial Intelligence & Data Science (AI & DS)**.
 - 💡 **Core Expertise**: Building end-to-end Machine Learning pipelines, Generative AI applications (RAG & Multi-Agent systems), real-time computer vision applications, and data integrity monitoring platforms.
 - 🛠️ **Engineering Mindset**: Dedicated to writing maintainable, clean code and turning complex ML models into scalable, intuitive software products.
 - 🎯 **Looking For**: Opportunities to contribute to high-impact teams in **AI/ML Engineering**, **GenAI Development**, or **Full-Stack Intelligent Software Systems**.
-
----
 
 ### 🧠 Technical Skills & Arsenal
 
